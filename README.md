@@ -118,4 +118,7 @@ This project was submitted as part of **CodTech’s Data Visualization with Big 
 
 ---
 #output:
+DASHBOARD 1:
 <img width="1864" height="958" alt="Image" src="https://github.com/user-attachments/assets/46ccce05-8aed-43a8-af9d-e56a8e745b8e" />
+DASHBOARD 2:
+<img width="1919" height="902" alt="Image" src="https://github.com/user-attachments/assets/80007fb2-5145-424c-93d2-350cfe26aff6" />
