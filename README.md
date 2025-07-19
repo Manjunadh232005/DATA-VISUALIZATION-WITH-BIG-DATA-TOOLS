@@ -117,3 +117,5 @@ This project was submitted as part of **CodTech’s Data Visualization with Big 
 - Effective storytelling using data
 
 ---
+#output:
+<img width="1864" height="958" alt="Image" src="https://github.com/user-attachments/assets/46ccce05-8aed-43a8-af9d-e56a8e745b8e" />
